@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-  <a href="https://github.com/ninaaano/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ninaaano&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="50%" height="50%"/></a>  
+ 
   <a href="https://github.com/ninaaano/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ninaaano&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="55%" height="55%"/></a>  
   <a href="https://github.com/ninaaano/github-readme-stats">
   <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninaaano&layout=compact&theme=buefy&hide_border=true" width="40%" height="40%"/></a>
