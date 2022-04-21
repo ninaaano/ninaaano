@@ -1,6 +1,6 @@
 <div align=center>
   
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=NINO%20ZONE&fontSize=70" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NINO%20ZONE🤪&fontSize=70)
 
 ### Hi there 👋
 
@@ -18,10 +18,10 @@
 
 <table>
   <tr>
-  <a href="https://github.com/KyungHoAn/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=KyungHoAn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="50%" height="50%"/></a>  
-  <a href="https://github.com/KyungHoAn/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=KyungHoAn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="55%" height="55%"/></a>  
-  <a href="https://github.com/KyungHoAn/github-readme-stats">
-  <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungHoAn&layout=compact&theme=buefy&hide_border=true" width="40%" height="40%"/></a>
+  <a href="https://github.com/ninaaano/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ninaaano&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="50%" height="50%"/></a>  
+  <a href="https://github.com/ninaaano/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ninaaano&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="55%" height="55%"/></a>  
+  <a href="https://github.com/ninaaano/github-readme-stats">
+  <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninaaano&layout=compact&theme=buefy&hide_border=true" width="40%" height="40%"/></a>
   </br>
    </tr>
 </table>
